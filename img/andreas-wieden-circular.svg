@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183 179">
+  <defs>
+    <clipPath id="portrait-circle">
+      <circle cx="92" cy="88" r="80"/>
+    </clipPath>
+  </defs>
+  <image href="andreas-wieden-bild.jpg" width="183" height="179" preserveAspectRatio="none" clip-path="url(#portrait-circle)"/>
+</svg>
